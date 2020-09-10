@@ -10,6 +10,7 @@ namespace ifififi
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("k");
         }
     }
 }
